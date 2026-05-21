@@ -34,7 +34,7 @@ namespace offsets {
     inline constexpr uintptr_t ClickDetectorMaxActivationDistance = 0x100;
     inline constexpr uintptr_t ClockTime = 0x1C0;
     inline constexpr uintptr_t CreatorId = 0x190;
-    inline constexpr uintptr_t DataModelDeleterPointer = 0x74F6758;
+    inline constexpr uintptr_t DataModelDeleterPointer = 0x7868A68;
     inline constexpr uintptr_t DataModelPrimitiveCount = 0x480;
     inline constexpr uintptr_t DataModelToRenderView1 = 0x1D8;
     inline constexpr uintptr_t DataModelToRenderView2 = 0x8;
@@ -48,7 +48,7 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7723F28;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x160;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x74F6758;
+    inline constexpr uintptr_t FakeDataModelPointer = 0x7868A68;
     inline constexpr uintptr_t FakeDataModelToDataModel = 0x1D0;
     inline constexpr uintptr_t FogColor = 0x104;
     inline constexpr uintptr_t FogEnd = 0x13C;
@@ -71,7 +71,7 @@ namespace offsets {
     inline constexpr uintptr_t HealthDisplayDistance = 0x198;
     inline constexpr uintptr_t HipHeight = 0x1A0;
     inline constexpr uintptr_t HumanoidDisplayName = 0xD0;
-    inline constexpr uintptr_t HumanoidState = 0x8A8;
+    inline constexpr uintptr_t HumanoidState = 0x8A0;
     inline constexpr uintptr_t HumanoidStateId = 0x20;
     inline constexpr uintptr_t InputObject = 0x118;
     inline constexpr uintptr_t InsetMaxX = 0x100;
@@ -85,7 +85,7 @@ namespace offsets {
     inline constexpr uintptr_t JobId = 0x138;
     inline constexpr uintptr_t JobStart = 0xC8;
     inline constexpr uintptr_t Job_Name = 0x18;
-    inline constexpr uintptr_t JobsPointer = 0x7BFE988;
+    inline constexpr uintptr_t JobsPointer = 0x7F7C478;
     inline constexpr uintptr_t JumpPower = 0x1B0;
     inline constexpr uintptr_t LocalPlayer = 0x138;
     inline constexpr uintptr_t LocalScriptByteCode = 0x1A8;
@@ -133,12 +133,12 @@ namespace offsets {
     inline constexpr uintptr_t RequireBypass = 0x0;
     inline constexpr uintptr_t RigType = 0x1CC;
     inline constexpr uintptr_t RootPartR15 = 0x5D8;
-    inline constexpr uintptr_t RootPartR6 = 0x488;
+    inline constexpr uintptr_t RootPartR6 = 0x480;
     inline constexpr uintptr_t Rotation = 0xC8;
     inline constexpr uintptr_t RunContext = 0x148;
     inline constexpr uintptr_t Sandboxed = 0xC5;
     inline constexpr uintptr_t ScreenGuiEnabled = 0x4CC;
-    inline constexpr uintptr_t ScriptContext = 0x430;
+    inline constexpr uintptr_t ScriptContext = 0x440;
     inline constexpr uintptr_t Sit = 0x1E9;
     inline constexpr uintptr_t SkyboxBk = 0x110;
     inline constexpr uintptr_t SkyboxDn = 0x140;
@@ -152,7 +152,7 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x230;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xB0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x7BFE988;
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x7F7C478;
     inline constexpr uintptr_t Team = 0x2B0;
     inline constexpr uintptr_t TeamColor = 0xD0;
     inline constexpr uintptr_t TextLabelText = 0xDA8;
@@ -165,7 +165,7 @@ namespace offsets {
     inline constexpr uintptr_t Velocity = 0xF8;
     inline constexpr uintptr_t ViewportSize = 0x2E8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x7BD51F8;
+    inline constexpr uintptr_t VisualEnginePointer = 0x7F52CF0;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0xA80;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x1D0;
     inline constexpr uintptr_t WalkSpeed = 0x1DC;
